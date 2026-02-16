@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChiakoRh
+- 👋 Hi, I’m CHR
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: Hmme
