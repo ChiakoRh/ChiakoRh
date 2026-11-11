@@ -1,0 +1,53 @@
+{
+  "stars": {
+    "BPB-Scan": 2,
+    "KAL": 0,
+    "KHP": 2,
+    "KKDA": 2,
+    "RemGodCatcher": 4,
+    "WSK": 5
+  },
+  "total_stars": 15,
+  "followers": 12,
+  "repos": 6,
+  "contrib": null,
+  "langs": {
+    "Go": 26663,
+    "JavaScript": 138197,
+    "CSS": 15207,
+    "HTML": 221702,
+    "Python": 73435
+  },
+  "info": {
+    "BPB-Scan": {
+      "description": null,
+      "language": "Go",
+      "pushed_at": "2026-07-27"
+    },
+    "KAL": {
+      "description": null,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-05"
+    },
+    "KHP": {
+      "description": "KHP => Kawaii Home Page",
+      "language": "HTML",
+      "pushed_at": "2026-06-26"
+    },
+    "KKDA": {
+      "description": "Kawaii Karing Data Analyzer",
+      "language": "HTML",
+      "pushed_at": "2026-07-20"
+    },
+    "RemGodCatcher": {
+      "description": "Download image from every site you desire .",
+      "language": "Python",
+      "pushed_at": "2026-06-27"
+    },
+    "WSK": {
+      "description": "This project reads the main WhiteDNS sub (~400 servers) every hour and splits it by country into 34 separate subs — so you can pick individual countries in any app, not just WhiteVPN.",
+      "language": "Python",
+      "pushed_at": "2026-11-11"
+    }
+  }
+}
