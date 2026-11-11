@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: ChiakoRh
           outputs: |
-            dist/snake.svg?color_snake=#7aa2f7&color_dots=#24283b,#3b3f5c,#414868,#7aa2f7,#bb9af7
+            dist/snake.svg?color_snake=#e0525b&color_dots=#222222,#2b2b2b,#4a4a4a,#b4b4b4,#e8c46a
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
