@@ -1,13 +1,13 @@
 {
   "stars": {
     "BPB-Scan": 2,
-    "KAL": 0,
+    "KAL": 1,
     "KHP": 2,
     "KKDA": 2,
     "RemGodCatcher": 4,
     "WSK": 5
   },
-  "total_stars": 15,
+  "total_stars": 16,
   "followers": 12,
   "repos": 6,
   "contrib": 88,
@@ -47,7 +47,7 @@
     "WSK": {
       "description": "This project reads the main WhiteDNS sub (~400 servers) every hour and splits it by country into 34 separate subs — so you can pick individual countries in any app, not just WhiteVPN.",
       "language": "Python",
-      "pushed_at": "2026-11-17"
+      "pushed_at": "2026-11-18"
     }
   }
 }
