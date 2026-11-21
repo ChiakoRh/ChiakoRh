@@ -1,7 +1,7 @@
 {
   "stars": {
     "BPB-Scan": 2,
-    "cui-skills": 1,
+    "cui-skills": 3,
     "KAL": 1,
     "Katoshe": 1,
     "KHP": 2,
@@ -9,10 +9,10 @@
     "RemGodCatcher": 4,
     "WSK": 5
   },
-  "total_stars": 18,
+  "total_stars": 20,
   "followers": 13,
   "repos": 8,
-  "contrib": 115,
+  "contrib": 126,
   "langs": {
     "Go": 26663,
     "HTML": 228124,
@@ -30,7 +30,7 @@
       "pushed_at": "2026-07-27"
     },
     "cui-skills": {
-      "description": null,
+      "description": "A collection of specialized AI agent skills for building desktop and web applications with CUI and Nexa UI — covering C/C++, Python, WebAssembly, and CUI-based web styling, with practical patterns and built-in RTL/Persian support.",
       "language": "HTML",
       "pushed_at": "2026-11-21"
     },
