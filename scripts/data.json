@@ -1,7 +1,7 @@
 {
   "stars": {
     "BPB-Scan": 2,
-    "cui-skills": 3,
+    "cui-skills": 4,
     "KAL": 1,
     "Katoshe": 1,
     "KHP": 2,
@@ -9,10 +9,10 @@
     "RemGodCatcher": 4,
     "WSK": 5
   },
-  "total_stars": 20,
+  "total_stars": 21,
   "followers": 13,
   "repos": 8,
-  "contrib": 133,
+  "contrib": 134,
   "langs": {
     "Go": 26663,
     "HTML": 228124,
