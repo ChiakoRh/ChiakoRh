@@ -10,9 +10,9 @@
     "WSK": 5
   },
   "total_stars": 20,
-  "followers": 12,
+  "followers": 13,
   "repos": 8,
-  "contrib": 126,
+  "contrib": null,
   "langs": {
     "Go": 26663,
     "HTML": 228124,
@@ -32,7 +32,7 @@
     "cui-skills": {
       "description": "A collection of specialized AI agent skills for building desktop and web applications with CUI and Nexa UI — covering C/C++, Python, WebAssembly, and CUI-based web styling, with practical patterns and built-in RTL/Persian support.",
       "language": "HTML",
-      "pushed_at": "2026-11-21"
+      "pushed_at": "2026-11-25"
     },
     "KAL": {
       "description": null,

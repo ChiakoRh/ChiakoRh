@@ -13,6 +13,7 @@
 <p align="center">
   <a href="https://github.com/ChiakoRh/WSK"><img src="output/card-WSK.svg" alt="WSK" /></a>
   <a href="https://github.com/ChiakoRh/BPB-Scan"><img src="output/card-BPB-Scan.svg" alt="BPB-Scan" /></a>
+  <a href="https://github.com/ChiakoRh/cui-skills"><img src="output/card-cui-skills.svg" alt="cui-skills" /></a>
 </p>
 
 <p align="center"><img src="assets/h-more.svg" alt="More from my workshop" /></p>

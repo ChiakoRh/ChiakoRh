@@ -34,7 +34,7 @@ DIST = ROOT / "output"
 CACHE = HERE / "data.json"
 IMG_CACHE = HERE / ".cache"
 
-FEAT = ["WSK", "BPB-Scan"]
+FEAT = ["WSK", "BPB-Scan", "cui-skills"]
 MINI = ["RemGodCatcher", "KKDA", "KHP", "KAL"]
 
 
