@@ -132,7 +132,10 @@ def cover(data: bytes, w: int, h: int, focus_y) -> str:
 
 
 def cover_for(name: str) -> str | None:
-    p = IMG_CACHE / f"{name}.jpg"
+    # hand-made covers live in assets/ (committed) so CI regenerations keep them
+    p = ROOT / "assets" / f"cover-{name}.jpg"
+    if not p.exists():
+        p = IMG_CACHE / f"{name}.jpg"
     if p.exists():
         return cover(p.read_bytes(), 666, 375, 0.2)
     try:
