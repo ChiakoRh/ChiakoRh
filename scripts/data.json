@@ -12,15 +12,15 @@
   "total_stars": 21,
   "followers": 13,
   "repos": 8,
-  "contrib": 134,
+  "contrib": 137,
   "langs": {
     "Go": 26663,
     "HTML": 228124,
     "CSS": 20643,
+    "JavaScript": 141958,
     "C": 276966,
     "Python": 74734,
     "CMake": 2833,
-    "JavaScript": 138197,
     "Batchfile": 151
   },
   "info": {
@@ -62,7 +62,7 @@
     "WSK": {
       "description": "This project reads the main WhiteDNS sub (~400 servers) every hour and splits it by country into 34 separate subs — so you can pick individual countries in any app, not just WhiteVPN.",
       "language": "Python",
-      "pushed_at": "2026-11-25"
+      "pushed_at": "2026-11-26"
     }
   }
 }
