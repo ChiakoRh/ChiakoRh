@@ -7,21 +7,25 @@
     "KHP": 2,
     "KKDA": 2,
     "RemGodCatcher": 4,
+    "RUI": 1,
     "WSK": 5
   },
-  "total_stars": 21,
+  "total_stars": 22,
   "followers": 15,
-  "repos": 8,
-  "contrib": 137,
+  "repos": 9,
+  "contrib": 181,
   "langs": {
     "Go": 26663,
-    "HTML": 228124,
-    "CSS": 20643,
+    "HTML": 643689,
+    "CSS": 33256,
     "JavaScript": 141958,
-    "C": 276966,
-    "Python": 74734,
-    "CMake": 2833,
-    "Batchfile": 151
+    "C": 4126126,
+    "Python": 96317,
+    "CMake": 16976,
+    "Batchfile": 151,
+    "Rust": 481136,
+    "Objective-C": 71377,
+    "GLSL": 3473
   },
   "info": {
     "BPB-Scan": {
@@ -59,10 +63,15 @@
       "language": "Python",
       "pushed_at": "2026-06-27"
     },
+    "RUI": {
+      "description": "Safe Rust API over CUI: immediate-mode native UI, headless tests, gallery site.",
+      "language": "C",
+      "pushed_at": "2026-11-28"
+    },
     "WSK": {
       "description": "This project reads the main WhiteDNS sub (~400 servers) every hour and splits it by country into 34 separate subs — so you can pick individual countries in any app, not just WhiteVPN.",
       "language": "Python",
-      "pushed_at": "2026-11-27"
+      "pushed_at": "2026-11-28"
     }
   }
 }
